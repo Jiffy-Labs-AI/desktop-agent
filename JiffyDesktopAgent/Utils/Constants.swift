@@ -12,7 +12,7 @@ struct Constants {
         static let authURL = "https://auth.jiffylabs.ai"
         #endif
 
-        static let desktopAuthURL = "\(webURL)/api/link-app-v2"
+        static let desktopAuthURL = "\(webURL)/desktop-auth"
         static let callbackScheme = "jiffy-desktop"
     }
 
